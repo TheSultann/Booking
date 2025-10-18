@@ -130,10 +130,4 @@ Content-Type: application/json
 
 ---
 
-Теперь ваш проект полностью готов.  
-Вы можете создавать репозиторий на GitHub, добавлять все файлы:
-```bash
-git add .
-git commit -m "Initial commit"
-git push
-```
+
